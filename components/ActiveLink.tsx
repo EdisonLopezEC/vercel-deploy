@@ -5,7 +5,7 @@ import { CSSProperties, FC } from "react";
 const style: CSSProperties = {
     color: '#0070f3',
     textDecoration: 'underline',
-  }
+}
 
 interface Props {
     text: string,
